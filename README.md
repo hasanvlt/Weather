@@ -22,7 +22,7 @@ Android Studio
 
 ## Screenshots
 <img src="/screenshots/" />
-(screenshots/Screenshot_20220919-030641_Weather.jpg?raw=true)
+![](screenshots/Screenshot_20220919-030641_Weather.jpg?raw=true)
 ![](screenshots/Screenshot_20220919-030708_Weather.jpg?raw=true)
 
 ## Software Developer
