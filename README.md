@@ -1,7 +1,9 @@
 # Weather
 ## Simple App for Weather Status by GPS
 ### Building the Sample AppBuilding the Sample App
-First, clone the repo
+###First, clone the repo:
+https://github.com/hasanvlt/Weather.git
+
 ## Android Studio (Recommended)
 
 (These instructions were tested with Android Studio version 2.2.2, 2.2.3, 2.3, and 2.3.2)
