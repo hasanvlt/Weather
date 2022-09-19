@@ -21,7 +21,7 @@ Android Studio
     Select the device you wish to run the app on and click 'OK'
 
 ## Screenshots
-![](screenshots/Screenshot_20220919-030641_Weather.jpg)
+<img src="screenshots/Screenshot_20220919-030641_Weather.jpg" />
 ![](screenshots/Screenshot_20220919-030708_Weather.jpg)
 
 ## Software Developer
