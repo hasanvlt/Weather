@@ -21,8 +21,8 @@ Android Studio
     Select the device you wish to run the app on and click 'OK'
 
 ## Screenshots
-[![Main Screen](Weather 1 "Main Screen")](https://github.com/hasanvlt/Weather/blob/master/screenshots/Screenshot_20220919-030641_Weather.jpg?raw=true "Main Screen")
-[![History](History of Weather "History")](https://github.com/hasanvlt/Weather/blob/master/screenshots/Screenshot_20220919-030708_Weather.jpg?raw=true "History")
+![](screenshots/Screenshot_20220919-030641_Weather.jpg)
+![](screenshots/Screenshot_20220919-030708_Weather.jpg)
 
 ## Software Developer
 Hasan Al Morhej
