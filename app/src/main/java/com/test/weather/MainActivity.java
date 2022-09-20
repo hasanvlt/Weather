@@ -333,7 +333,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
         common.page = 0;
 
         //thread for get storage location and display it inside components
-        //Note : we can use spread thread or async
+        //Note : we can use separate thread or async
         new Thread() {
             public void run() {
 
